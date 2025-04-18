@@ -1,2 +1,2 @@
-# prab-wa-bot
-Bot WhatsApp auto chat by prab✨
+# Nadine WA Bot (Safe Version)
+Uses environment variables for security.
